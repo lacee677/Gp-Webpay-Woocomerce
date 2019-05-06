@@ -7,8 +7,8 @@
  * Version: 1.0
  * Author: Ladislav Misurák
  * Author URI: https://misurak.eu/
- * License: GNU General Public License v2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * License: MIT
+ * License URI: https://github.com/lacee677/Gp-Webpay-Woocomerce/blob/master/LICENSE.md
  */
 
  
